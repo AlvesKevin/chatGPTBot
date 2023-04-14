@@ -4,7 +4,7 @@ from tqdm import tqdm
 
 
 # Définir votre clé d'API OpenAI
-openai.api_key = "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"
+openai.api_key = "TON-API-OPENAI"
 
 # Définir les exemples de prompts que vous voulez utiliser
 example_prompts = ["[STYLE: Speedpainting] [COLORS: Red, Amber] [SHAPE: Vintage Van] [THEME: Road Trip] [MEDIUM: 2D Game Art] Generate an image with natural phenomena and forestpunk elements. Aspect Ratio 2:3. Chaos level 8.  Resolution 750 x 750",
