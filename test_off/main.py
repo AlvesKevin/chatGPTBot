@@ -1,7 +1,7 @@
 import discord
 import openai
 
-openai.api_key = "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"
+openai.api_key = "TON-API-KEY"
 
 intents = discord.Intents.default()
 intents.members = True
