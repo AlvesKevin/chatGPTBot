@@ -6,8 +6,8 @@ import discord
 from discord import Intents
 from discord.ext import commands
 
-DISCORD_TOKEN = 'MTA5Mzk3OTA0NDY2OTgzNzMxMg.Gvyc-y.knv0ngvCttV4DwwNxHctAXhqz0uO9f4__IiFlE'
-OPENAI_API_KEY = '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'
+DISCORD_TOKEN = 'TON-TOKEN-DISCORD'
+OPENAI_API_KEY = 'TON-API-KEY'
 
 openai.api_key = OPENAI_API_KEY
 intents = Intents.all()
